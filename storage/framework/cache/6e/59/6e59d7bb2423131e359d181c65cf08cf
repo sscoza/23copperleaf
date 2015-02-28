@@ -1,0 +1,11 @@
+1425140226s:309:"a:6:{s:5:"mtime";i:1425139303;s:7:"content";s:50:"<head>
+    ...
+    {% placeholder head %}
+</head>
+";s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:49:"<head>
+    ...
+    {% placeholder head %}
+</head>";s:13:"parsed-markup";s:49:"<head>
+    ...
+    {% placeholder head %}
+</head>";}";
