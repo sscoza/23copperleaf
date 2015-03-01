@@ -1,0 +1,17 @@
+{
+    "name": "23copperleaf",
+    "type": "october-theme",
+    "description": "For Sale By Owner OctoberCMS theme",
+    "keywords": ["october", "cms", "for sale", "by owner", "house", "real estate"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stephen J. Scoza",
+            "email": "sjscoza@gmail.com",
+            "role": "Application Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
